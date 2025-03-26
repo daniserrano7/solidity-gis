@@ -1,6 +1,6 @@
 # Solidity GIS: On-Chain Geospatial Data Management
 
-This work is some work I did during my time at Astral Protocol, where I contributed to building tools for the decentralized geospatial web. While this is only a portion of the larger project, it demonstrates some of the most technically challenging aspects I worked on, particularly around implementing complex geometric calculations in Solidity.
+This work is some work I did during my time at Astral Protocol in collaboration with [Holly Grimm](https://github.com/hollygrimm), where I contributed to building tools for the decentralized geospatial web. While this is only a portion of the larger and unfinished project, it demonstrates some of the most technically challenging aspects I worked on, particularly around implementing complex geometric calculations in Solidity.
 
 A pioneering project that brings geospatial data management to the Ethereum blockchain, featuring advanced trigonometric calculations and polygon area computations that take into account Earth's curvature.
 
